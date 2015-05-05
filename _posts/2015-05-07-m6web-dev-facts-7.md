@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "M6Web Dev Facts #7"
-description: "Les plus belles phrases de nos équipes technique"
+description: "Les plus belles phrases de nos équipes techniques"
 author:
   name:     Mikael Randy
   avatar:   mikaelrandy.png
